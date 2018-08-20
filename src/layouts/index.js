@@ -6,7 +6,7 @@ import styled from 'styled-components'
 import Footer from '../components/Footer'
 import Header from '../components/Header'
 
-import './index.css'
+import './globalStyles'
 
 const Container = styled.div`
   display: flex;
